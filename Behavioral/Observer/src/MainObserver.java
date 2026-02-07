@@ -1,3 +1,5 @@
+import java.util.List;
+
 void main() {
     List<ClientVIP> clients = List.of(
             new ClientVIP("Lundi"),
